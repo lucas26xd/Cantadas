@@ -1,7 +1,7 @@
 {
     'Boas-vindas': ['Bem vindo, vou lhe ajudar a conquistar seu crush.'],
     'Introdução': ['Anota essa...', '', 'Lá vai...', '', 'Chega na cremosa e fala...', ''],
-    'Questão': ['Quer ouvir outra?', 'Gostaria de outra?', 'Tenho uma boa, quer saber?', 'Mais uma?']
+    'Questão': ['Quer ouvir outra?', 'Gostaria de outra?', 'Tenho uma boa, quer saber?', 'Mais uma?'],
     'Adeus': ['Lhe desejo boa sorte!', 'Vai dar tudo certo, confia!', 'Até breve!', 'Se não funcionar, pode voltar aqui quando quiser.'],
     'Aleatória': [
         'Pronto, estou aqui! Quais são os seus outros dois desejos?',
@@ -57,7 +57,7 @@
         'Você é australiano? Porque você tem todas as "coala-ificações" necessárias para ganhar o meu coração.',
         'Eu não sou Alice, mas, com você, me sinto no País das Maravilhas.',
         'Você não é massagem cardíaca, mas reanima o meu coração!',
-        'O meu telefone continua corrigindo automaticamente seu nome para "Amo"'. Acredito que seja um sinal.',
+        'O meu telefone continua corrigindo automaticamente seu nome para "Amo". Acredito que seja um sinal.',
         'Ei, o cupido te ligou? Ele queria pedir para você devolver o meu coração.',
         'O amor não é mais do que a poesia cantada pelo coração.
         'Foi o sol que saiu ou é você sorrindo para mim?',
@@ -170,21 +170,21 @@
         'Pesquisas apontam que se você quiser, eu quero faz tempo!',
         'Pra que eu vou assinar a Disney, se a princesa que eu quero não tem lá?',
         'Gata, se você fosse desaforo, eu fazia questão de te levar pra casa.',
-        'Se até o Messenger disse que estamos conectados, quem somos nós para discordar?',
+        'Se até o Messenger disse que estamos conectados, quem somos nós para discordar?'
     ],
     'Nerd': [
         'Se você fosse uma variável, seria um ponteiro que aponta para o endereço de memória do meu coração',
-		'Você é a chave estrangeira da minha entidade coração',
-		'Você é o CSS que faltava no meu HTML',
-		'Me dá um Ctrl Alt Delete... Acho que travei quando te vi',
-		'Deixa eu ser a instância da sua classe love no seu objeto heart?',
-		'Você é uma constante nesse mar de variáveis',
-		'Não importa em qual plataforma você foi feito, eu me adequo ao seu sistema',
-		'Com você até o Word fica sem palavras',
-		'Você não é CSS, mas é puro estilo',
-		'Você não é um código de programação bem feito, mas dispensa comentários',
-		'Gata, você é o ponto e vírgula que falta no meu código',
-		'Você não é orientada a objetos, mas é cheia de classe',
+	'Você é a chave estrangeira da minha entidade coração',
+	'Você é o CSS que faltava no meu HTML',
+	'Me dá um Ctrl Alt Delete... Acho que travei quando te vi',
+	'Deixa eu ser a instância da sua classe love no seu objeto heart?',
+	'Você é uma constante nesse mar de variáveis',
+	'Não importa em qual plataforma você foi feito, eu me adequo ao seu sistema',
+	'Com você até o Word fica sem palavras',
+	'Você não é CSS, mas é puro estilo',
+	'Você não é um código de programação bem feito, mas dispensa comentários',
+	'Gata, você é o ponto e vírgula que falta no meu código',
+	'Você não é orientada a objetos, mas é cheia de classe',
         'Me chama de tabela periódica e diz que rola uma química entre nós.',
         'Gata, entre Star Wars e Star trek, O que eu queria mesmo era star com você.',
         'Gata, eu não sou o Yoshi, mas daria minha vida por você.',
@@ -196,6 +196,6 @@
         'Nosso amor é de outro mundo, porque mesmo fora da gravidade da Terra, eu ainda ficaria caidinho por você.',
         'Você tem M.S.N.? Não? Ah então serve seu WhatsApp mesmo.',
         'Gata, me chama de Franklin e Bejamim',
-        'Gatinha, não sou um Bitcoin, mas posso te garantir um futuro promissor.',
-    ],
+        'Gatinha, não sou um Bitcoin, mas posso te garantir um futuro promissor.'
+    ]
 }
